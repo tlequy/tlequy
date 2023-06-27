@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Misenplace.ai, an AI tool for restaurants
+- 🌱 I’m currently learning Python and APIs
+- 📫 How to reach me: thomas@misenplace.ai
+
 <!--
 **tlequy/tlequy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
